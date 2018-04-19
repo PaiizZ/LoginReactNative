@@ -1,14 +1,17 @@
 export const config = {
-  apiKey: "AIzaSyAzgTI4wEpt6FxJAR2tX45WhdQzNT8MbF4",
-  authDomain: "myapp-f38c1.firebaseapp.com",
-  databaseURL: "https://myapp-f38c1.firebaseio.com",
-  projectId: "myapp-f38c1",
-  storageBucket: "",
-  messagingSenderId: "357443056489"
+  // apiKey: "AIzaSyAzgTI4wEpt6FxJAR2tX45WhdQzNT8MbF4",
+  // authDomain: "myapp-f38c1.firebaseapp.com",
+  // databaseURL: "https://myapp-f38c1.firebaseio.com",
+  // projectId: "myapp-f38c1",
+  // storageBucket: "",
+  // messagingSenderId: "357443056489"
+  apiKey: "AIzaSyBwTclPTe0Z6SgAUX3ingBOInzg65rXWrY",
+  authDomain: "loginwithreactnative-1150.firebaseapp.com",
+  databaseURL: "https://loginwithreactnative-1150.firebaseio.com",
+  projectId: "loginwithreactnative-1150",
+  storageBucket: "loginwithreactnative-1150.appspot.com",
+  messagingSenderId: "433626171157"
 };
-
-
-
 
 
 
